@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.pyd
+/.pydevproject
+/.project
+/bin/
+/build/
+/eggs/
+/develop-eggs/
+/downloads/
+/parts/
+/.installed.cfg
+*.egg-info
+myproject.db
